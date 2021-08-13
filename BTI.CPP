@@ -88,7 +88,7 @@ int main()
     root->left->left = createNode(7);
     root->right->left = createNode(15);
     root->right->right = createNode(8);
-    //root->left = createNode(11);
+   // //root->left = createNode(11);
  int key;
     cout<<"Enter the key : ";
     cin>>key;
